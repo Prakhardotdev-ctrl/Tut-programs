@@ -1,3 +1,3 @@
 code = input("msg enter : ")
-newcode = code.lower()
+newcode = code.upper()
 print(newcode)
